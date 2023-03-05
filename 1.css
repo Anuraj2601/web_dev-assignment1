@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+.log {
+    height: 100%;
+    width: 350px;
+    margin-left: 150px;
+    padding-top: 200px;
+    position: fixed;
+    z-index: 1;
+}
+
+.gif {
+    margin-left: 650px;
+    padding-left: 100px;
+    padding-top: 150px;
+}
+
+h1 {
+    color: rgb(29, 94, 225);
+}
